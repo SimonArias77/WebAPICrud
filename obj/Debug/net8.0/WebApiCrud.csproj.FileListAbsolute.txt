@@ -37,3 +37,43 @@
 /home/riwip5-006/WebApiCrud/obj/Debug/net8.0/WebApiCrud.pdb
 /home/riwip5-006/WebApiCrud/obj/Debug/net8.0/WebApiCrud.genruntimeconfig.cache
 /home/riwip5-006/WebApiCrud/obj/Debug/net8.0/ref/WebApiCrud.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.csproj.AssemblyReference.cache
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfoInputs.cache
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfo.cs
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.csproj.CoreCompileInputs.cache
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.sourcelink.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\refint\WebApiCrud.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.pdb
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\appsettings.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\WebApiCrud.exe
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\WebApiCrud.deps.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\WebApiCrud.runtimeconfig.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\WebApiCrud.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\WebApiCrud.pdb
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Sprache.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets\msbuild.WebApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiCrud.props
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiCrud.props
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiCrud.props
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\scopedcss\bundle\WebApiCrud.styles.css
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.csproj.Up2Date
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\WebApiCrud.genruntimeconfig.cache
+C:\Users\SIMÓN ARIAS\Documents\SIMÓN\RIWIIIIIiiiiiii\RIWI\DESARROLLO DE SOFTWARE\C# Y .NET\WebAPICrud\obj\Debug\net8.0\ref\WebApiCrud.dll
