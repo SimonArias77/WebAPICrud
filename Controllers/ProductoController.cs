@@ -28,11 +28,51 @@ public class ProductoController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> PostProducto(Producto producto)
     {
-        await  _context.Productos.AddAsync(producto);
+        await _context.Productos.AddAsync(producto);
         await _context.SaveChangesAsync();
         return Ok("producto guardado con éxito");
-         
+
     }
+
+    // PUT: api/Producto/{id}
+    [HttpPut("{id}")]
+    public async Task<IActionResult> PutProducto(int id, Producto producto)
+    {
+
+        var existingProducto = await _context.Productos.FindAsync(id);
+        if (existingProducto == null)
+        {
+            return NotFound("Producto no encontrado.");
+        }
+
+
+        existingProducto.Nombre = producto.Nombre;
+        existingProducto.Precio = producto.Precio;
+
+
+
+        await _context.SaveChangesAsync();
+
+        return Ok("Producto actualizado con éxito.");
+    }
+
+    // DELETE: api/Producto/{id}
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteProducto(int id)
+    {
+
+        var producto = await _context.Productos.FindAsync(id);
+        if (producto == null)
+        {
+            return NotFound("Producto no encontrado.");
+        }
+
+        _context.Productos.Remove(producto);
+        await _context.SaveChangesAsync();
+
+        return Ok("Producto eliminado con éxito.");
+    }
+
 }
 
 

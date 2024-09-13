@@ -17,5 +17,14 @@ public class ApplicationDbContext : DbContext
 
     }
 
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Producto>()
+            .Property(p => p.IdProducto)
+            .ValueGeneratedOnAdd(); // Esto asegura que el IdProducto es autoincrementable
+    }
+
 
 }
